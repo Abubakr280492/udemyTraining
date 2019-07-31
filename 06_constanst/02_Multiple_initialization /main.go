@@ -65,9 +65,6 @@ func main()  {
 	fmt.Printf("%b\t",TB)
 	fmt.Printf("%d\n",TB)
 
-	fmt.Println("Welcome to the playground!")
-
-	fmt.Println("The time is", time.Now())
 	fmt.Println("Toshkentda soat", time.Now())
 
 
