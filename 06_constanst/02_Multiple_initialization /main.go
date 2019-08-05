@@ -65,7 +65,7 @@ func main()  {
 	fmt.Printf("%b\t",TB)
 	fmt.Printf("%d\n",TB)
 
-	fmt.Println("Toshkentda soat", time.Now())
+	fmt.Println("The time in tashketn is ", time.Now())
 
 
 }
