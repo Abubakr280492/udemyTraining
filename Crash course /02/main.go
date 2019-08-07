@@ -16,7 +16,11 @@ func main() {
     fmt.Println("boom! I say!")
     return nil
   }
+<<<<<<< HEAD
 ls
+=======
+
+>>>>>>> 466b5f809418bf709baabb8ddcc83b362ff4c2e9
   err := app.Run(os.Args)
   if err != nil {
     log.Fatal(err)

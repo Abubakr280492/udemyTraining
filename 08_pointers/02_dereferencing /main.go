@@ -15,4 +15,6 @@ func main()  {
 
 	*b = 42 // b says  The value at this memory adress change it to 42 	
 	fmt.Println(a) //42 
+
+	//Everything pass by value // it not pass by copy )) 
 }
