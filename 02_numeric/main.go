@@ -8,7 +8,12 @@ func main() {
     fmt.Printf("%d - %b -%x \n", 5 , 5,5)
     fmt.Printf("%d - %b -%x \n", 42 , 42,42)
     fmt.Printf("%d - %b -%#x \n", 42 , 42,42)
- 
+ fmt.Printf("%d-%b-%x\n",55,55,55)
+fmt.Printf("%d-%b-%x \n",74,74,74)
+fmt.Printf("%d-%b-%x \n",74,74,74)
+fmt.Printf("%d-%b-%x \n",99,99,99)
+fmt.Printf("%d-%b-%x \n",99,99,99)
+fmt.Printf("%d-%b-%x \n",13,13,13)
 
 //    fmt.Printf("%d  decimal  - %binry -%hexidecimal \n", 5 , 5,5)
 //

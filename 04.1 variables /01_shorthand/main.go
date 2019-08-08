@@ -10,6 +10,9 @@ import "fmt"
 	b := "go lang"  // b is a string declaring var b string  take b assign/initialize  b = "cowboy"
 	c := 5.51
 	d :=true
+e :="madina"
+g :=1
+f :="lnjh"
 
 	fmt.Printf("%v \n",a) //%v the value  default format  
 	fmt.Printf("%v \n",b)
@@ -21,6 +24,9 @@ import "fmt"
 	fmt.Printf("%T \n",b)
 	fmt.Printf("%T \n",c)
 	fmt.Printf("%T \n",d)
+fmt.Printf("%T \n",e)
+fmt.Printf("%T \n",g)
+fmt.Printf("%T \n",f)
 
 
 

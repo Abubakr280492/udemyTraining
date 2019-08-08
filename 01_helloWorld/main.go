@@ -1,5 +1,9 @@
 package main
 import "fmt"
 func main() {
-    fmt.Println("Hi Abdi")
+    fmt.Print("bye computer")
+
+
+    fmt.Println("1-kundagi go") 
 }
+fmt.Println("water")
